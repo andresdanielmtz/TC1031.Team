@@ -32,3 +32,6 @@ Finalmente, para limpiar la carpeta caché obtenida después de la compilación 
 ```
 make clean
 ```
+
+### License 
+Este proyecto cuenta con la licencia de MIT. Checar `LICENSE` para más información. 
